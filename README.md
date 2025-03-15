@@ -21,13 +21,13 @@ Go Drive is a database management system designed to support a ride-sharing appl
 **Clone the repository:**
 
 
-    Copy git clone https://github.com/JimmYCHUU/GoDrive.git`
+    git clone https://github.com/JimmYCHUU/GoDrive.git`
 
 **Install dependencies:**
 
 Navigate to the project directory and install necessary dependencies for backend and frontend (if applicable):
 
-    Copy
+   
     cd GoDrive
     npm install
 **Set up the database:**
@@ -38,7 +38,7 @@ Configure your database credentials in the .env file or environment variables.
 
 **Start the server:**
 
-    Copy
+    
     npm start
 The application will be accessible at http://localhost:3000 (or the port you configured).
 
