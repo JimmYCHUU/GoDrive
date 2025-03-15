@@ -1,4 +1,4 @@
-#Go Drive - Ride Sharing App (Database Management Project)
+# Go Drive - Ride Sharing App (Database Management Project)
 Go Drive is a database management system designed to support a ride-sharing application, focusing on efficient management and retrieval of data related to users, drivers, rides, and transactions. The project aims to create an optimized system that can handle real-time ride requests and store large volumes of data securely and efficiently.
 
 **Features**
